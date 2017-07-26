@@ -11,6 +11,7 @@
 <script>
     import vHead from './Header.vue';
     import vSidebar from './Sidebar.vue';
+    /*import vEditor from '../page/VueEditor.vue'*/
     export default {
         components:{
             vHead, vSidebar

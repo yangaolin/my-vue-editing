@@ -27,7 +27,7 @@
                     {
                         icon: 'el-icon-date',
                         index: 'vueeditor',
-                        title: '编辑器'
+                        title: '留痕'
                     }
                 ]
             }
